@@ -1,0 +1,30 @@
+{
+  "features": [
+    "vpt",
+    "cold_temp",
+    "cipn20_sensory",
+    "cipn20_motor",
+    "cipn20_autonomic"
+  ],
+  "imputer_median": {
+    "vpt": 4.945,
+    "cold_temp": 30.29,
+    "cipn20_sensory": 22.2,
+    "cipn20_motor": 20.8,
+    "cipn20_autonomic": 11.1
+  },
+  "scaler_mean": {
+    "vpt": 5.225890909090909,
+    "cold_temp": 30.24419545454546,
+    "cipn20_sensory": 23.29072727272727,
+    "cipn20_motor": 20.745727272727272,
+    "cipn20_autonomic": 14.038181818181819
+  },
+  "scaler_scale": {
+    "vpt": 2.4924283388821453,
+    "cold_temp": 1.4113371763805715,
+    "cipn20_sensory": 10.069571418982212,
+    "cipn20_motor": 10.306434879511917,
+    "cipn20_autonomic": 15.321920315311665
+  }
+}
